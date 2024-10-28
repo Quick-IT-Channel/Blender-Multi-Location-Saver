@@ -14,6 +14,10 @@ A Python script that enables users to save Blender projects in multiple location
 - Blender 2.8 or higher
 - Python 3.x (comes pre-installed with Blender)
 
+# Video Preview
+
+[![YouTube Video Preview](https://img.youtube.com/vi/EY7OrOINhMg/0.jpg)](https://www.youtube.com/watch?v=EY7OrOINhMg)
+
 ## Installation
 
 1. **Download the Script**: Clone this repository or download the Python script manually.
@@ -25,6 +29,6 @@ Install Script in Blender: To use the script, you'll need to install it in Blend
 
 PLease refer the video to get the detailed instructions on this
 
-# Video Preview
+# Video Link
 
-[![YouTube Video Preview](https://img.youtube.com/vi/EY7OrOINhMg/0.jpg)](https://www.youtube.com/watch?v=EY7OrOINhMg)
+https://www.youtube.com/watch?v=EY7OrOINhMg
