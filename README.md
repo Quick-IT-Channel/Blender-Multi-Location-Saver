@@ -23,16 +23,8 @@ git clone https://github.com/yourusername/blender-multi-location-saver.git
 
 Install Script in Blender: To use the script, you'll need to install it in Blender.
 
-Open Blender.
-Go to Edit > Preferences.
-Select Add-ons and click Install.
-Navigate to where you downloaded the script and select it.
-Activate the Add-on:
+PLease refer the video to get the detailed instructions on this
 
-After installation, search for the add-on in the list of installed add-ons.
-Enable the add-on by checking the box next to it.
-Usage
-Open your Blender project.
-Run the script from the Scripting tab or set it as an add-on in the Preferences.
-The script will prompt you to set up multiple save locations.
-Save your project as usual, and it will automatically be saved in the specified directories.
+# Video Preview
+
+[![YouTube Video Preview](https://img.youtube.com/vi/EY7OrOINhMg/0.jpg)](https://www.youtube.com/watch?v=EY7OrOINhMg)
